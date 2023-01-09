@@ -1,0 +1,15 @@
+C:\PAPKA\Итоги блока. Выбор специализации\bin\Debug\net6.0\Итоги блока. Выбор специализации.exe
+C:\PAPKA\Итоги блока. Выбор специализации\bin\Debug\net6.0\Итоги блока. Выбор специализации.deps.json
+C:\PAPKA\Итоги блока. Выбор специализации\bin\Debug\net6.0\Итоги блока. Выбор специализации.runtimeconfig.json
+C:\PAPKA\Итоги блока. Выбор специализации\bin\Debug\net6.0\Итоги блока. Выбор специализации.dll
+C:\PAPKA\Итоги блока. Выбор специализации\bin\Debug\net6.0\Итоги блока. Выбор специализации.pdb
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.csproj.AssemblyReference.cache
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.AssemblyInfoInputs.cache
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.AssemblyInfo.cs
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.csproj.CoreCompileInputs.cache
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.dll
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\refint\Итоги блока. Выбор специализации.dll
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.pdb
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\Итоги блока. Выбор специализации.genruntimeconfig.cache
+C:\PAPKA\Итоги блока. Выбор специализации\obj\Debug\net6.0\ref\Итоги блока. Выбор специализации.dll
